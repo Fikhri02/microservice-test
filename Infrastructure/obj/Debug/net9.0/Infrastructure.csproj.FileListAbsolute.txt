@@ -17,3 +17,4 @@
 /Users/fikhri/Projects/DotNet/OrderManagement/Infrastructure/obj/Debug/net9.0/Infrastructure.pdb
 /Users/fikhri/Projects/DotNet/OrderManagement/Infrastructure/obj/Debug/net9.0/Infrastructure.genruntimeconfig.cache
 /Users/fikhri/Projects/DotNet/OrderManagement/Infrastructure/obj/Debug/net9.0/ref/Infrastructure.dll
+/Users/fikhri/Projects/DotNet/OrderManagement/Infrastructure/obj/Debug/net9.0/Infrastructure.sourcelink.json

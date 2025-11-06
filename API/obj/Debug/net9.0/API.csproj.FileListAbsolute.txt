@@ -140,3 +140,4 @@
 /Users/fikhri/Projects/DotNet/OrderManagement/API/obj/Debug/net9.0/API.pdb
 /Users/fikhri/Projects/DotNet/OrderManagement/API/obj/Debug/net9.0/API.genruntimeconfig.cache
 /Users/fikhri/Projects/DotNet/OrderManagement/API/obj/Debug/net9.0/ref/API.dll
+/Users/fikhri/Projects/DotNet/OrderManagement/API/obj/Debug/net9.0/API.sourcelink.json
